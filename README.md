@@ -1,0 +1,6 @@
+kotiki{
+  gashsish
+  marihuana
+  nasvai
+}
+
